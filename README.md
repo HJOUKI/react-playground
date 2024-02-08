@@ -1,7 +1,7 @@
 
 # react-playground 🚀
 
-### init setting
+### init setting ver branch : myHju
 
 1. github repo clone
 ```
